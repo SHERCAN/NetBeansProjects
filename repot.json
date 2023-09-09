@@ -1,0 +1,68 @@
+{
+    "header": {
+        "title": "Detalle de consumo energético",
+        "logo_url": "https://apps.eneriongroup.com/icons/bussines.png",
+        "name": "DESARROLLO INMOBILIARIO DEL ESTE, S.A.",
+        "address": "Panamá, Costa del Este, Av. de la Rotonda, Business Park",
+        "ruc": "273003-1-406331",
+        "dv": "38"
+    },
+    "footer": {
+        "column": [
+            "En caso de no estar de acuerdo con lo descrito en este documento, comunicarse con la Autoridad Nacional de los Servicio Públicos, utilizando los siguientes datos:\nDirección: Vía España, Edificio Office Park, Ciudad  Panamá.\nTelefónica: (507) – 508-4500 Línea Gratuita 183\nApartado Postal: 0816-01235, Zona 5 Panamás",
+            "ESTIMADO CLIENTE, LE INVITAMOS A LEER CUIDADOSAMENTE ESTA INFORMACIÓN:\n  - Su cuenta quedará sujeta a la suspención del suministro eléctrico por retrasos de sesenta (60) días o más en el pago de las facturas.\n  - Cancele su factura antes de la fecha de vencimiento para evitar cargos de interés por mora.\n  - Este no es un documento fiscal, es una presentación de cuenta y no reemplaza la emisión de la Factura Fiscal",
+            "En caso de tener consultas sobre lo descrito en este documento, comunicarse con la administración utilizando los siguientes datos:\nCorreo: helpdeskbp@hines.com\nTeléfono: 300-9970 "
+        ]
+    },
+    "customer": {
+        "name": "SIGNIFY PANAMA SEM, S.A.",
+        "address": "Panamá, Costa del Este, Av. de la Rotonda, Business Park",
+        "ruc": "155595476-2-2015",
+        "dv": "-",
+        "tower": "V",
+        "floor": "8",
+        "meter": "A01"
+    },
+    "invoice": {
+        "unique_id": "invoice-000000001-SIGNIFY-A01-01-2023",
+        "date": "30/08/2021",
+        "expiration": "30/09/2021",
+        "registry_type": "Real",
+        "start_date": "30/07/2021",
+        "end_date": "30/08/2021",
+        "days": "31",
+        "start_value": 357981.4,
+        "end_value": 362974.3,
+        "energy": 4992.89,
+        "demand": 10.354,
+        "pecim": 0.157445781611845,
+        "cadmm": 3,
+        "current": 786.111043009774,
+        "cadmm_total": 23.5833312902932,
+        "current_subtotal": 786.111043009774,
+        "interest": 0,
+        "current_total": 809.694374300067,
+        "prev_total": 0,
+        "subtotal": 809.694374300067,
+        "itbms": 7,
+        "itbms_total": 0,
+        "total": 809.694374300067,
+        "common_area": 9.69,
+        "balance_due": [0,0,0,0],
+        "c_symbol": "$"
+    },
+    "history": [
+        {"date": "ene-21", "value": 3289.10},
+        {"date": "feb-21", "value": 3271.5},
+        {"date": "mar-21", "value": 3787.70},
+        {"date": "abr-21", "value": 3577.09},
+        {"date": "may-21", "value": 4408.20},
+        {"date": "jun-21", "value": 5413.59},
+        {"date": "jul-21", "value": 5190.10},
+        {"date": "ago-21", "value": 4992.89},
+      {"date": "sep-21", "value": 4992.89},
+      {"date": "oct-21", "value": 4992.89},
+      {"date": "nov-21", "value": 4992.89},
+      {"date": "dic-21", "value": 4992.89}
+    ]
+}
